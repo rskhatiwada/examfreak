@@ -645,8 +645,8 @@ img {
 }
 
 #hubspot-form-container button:hover {
-    background: #FFEB3B; /* Hover effect */
-    color: #333;
+    background: #FFEB3B !important; /* Hover effect */
+    color: #333 !important;
 }
 
 
